@@ -20,3 +20,5 @@
 - **Enhanced Security Features**: Adding two-factor authentication and advanced encryption techniques.  
 - **Bill Payments**: Introducing functionality for utility bill payments and recharges.  
 - **Analytics Dashboard**: Providing users with insights into their financial trends using charts and graphs.  
+
+![Screenshot (32)](https://github.com/user-attachments/assets/8fc2c1dd-e003-4139-9732-219fba78c911)
